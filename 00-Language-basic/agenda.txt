@@ -1,0 +1,11 @@
+Basics skeleton     -- Done
+data-type           -- Done
+Input/Output (IO)   -- Done
+If-else             -- Done
+Switch              -- Done
+for loop            -- Done
+while loop          -- Done
+Arrays              -- Done
+Strings             -- Done
+functions           -- Done
+pass by value and reference     -- Done
