@@ -1,0 +1,50 @@
+Containers
+Algorithms
+Functions
+Iterators
+
+
+1. Pair (utility library)           -- Done
+
+2. Vectors                          -- Done
+    - initialisation
+    - push_back / emplace_back
+    - front
+    - back
+    - iterator
+    - for each
+    - erase
+    - insert
+    - size
+    - access
+    - swap
+    - clear
+
+3. List
+    - push_front / emplace_front
+    - front
+
+4. deque
+
+5. stack (lifo)
+    - push / emplace
+    - top
+    - pop
+    - size
+    - swap
+    - empty
+
+6. Queue (fifo)
+    - push / emplace
+    - front
+    - pop
+    - size
+    - swap
+    - empty
+
+7. Priority Queue (Internally heap)
+    - top
+    - pop
+    - push / emplace
+    - empty
+    - size
